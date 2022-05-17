@@ -5,5 +5,6 @@ public class TestUse {
     public void test(){
         Logger logger = Logger.getLogger(TestUse.class);
         logger.info("test");
+        logger.info("test1");
     }
 }
