@@ -8,5 +8,6 @@ public class TestUse {
         logger.info("test1");
         logger.info("test3");
         logger.info("test2");
+        logger.info("test5");
     }
 }
